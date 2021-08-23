@@ -1,8 +1,9 @@
 restaurant_name,category,subcategory,preferred_way,order_times,favorite_item,,,,
-Bang Bang Canteen,,,delivery,,,,,Monday,G-J
+Bang Bang Canteen,,,delivery,,,,,
 Barshu,,,delivery,,,,,Tuesday,K-N
 Bombay Palace,,,delivery,,,,,Wednesday,O-R
 Bread Ahead,,,delivery,,,,,Thursday,S-V
+Burger&Lobster,,,delivery,,,,,
 Cacciari's,,,delivery,,,,,Friday,W-Z
 Caso Manolo,,,delivery,,,,,,
 Co&Ko,,,delivery,,,,,,
@@ -40,8 +41,10 @@ Monga Fried Chicken,Chinese,,delivery,,,,,,
 Monkey & Me,,,delivery,,,,,,
 Murger HanHan,,,delivery,,,,,,
 Nabh Mi Town Fresh Vietnamese Food,,,delivery,,,,,,
+Nala,Japanese,,delivery,,,,,
 Noura,,,delivery,,,,,,
-Oka,,,delivery,,,,,,
+Ohisama Sushi,Japanese,,delivery,,,,,
+Oka,Japanese,,delivery,,,,,,
 Old Chang Kee,Singaporean,,delivery,,,,,,
 Ole & Steen,bakery,,delivery,,,,,,
 Orphalese,,,delivery,,,,,,
@@ -68,4 +71,5 @@ Wrap Guys by Lokkanta,,,delivery,,,,,,
 Yoobi Sushi,,,delivery,,,,,,
 Youatcha,Chinese,Cantonese,delivery,,,,,,
 Young Cheng Seafood,grocery,,delivery,,,,,,
+Urban Doner Kebab,,delivery,,,,,,,
 Waitrose,grocery,,delivery,,,,,,
